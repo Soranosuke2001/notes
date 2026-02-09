@@ -1,21 +1,21 @@
 # `branch` Command
 
-Listing all local branches
+**Listing all local branches**
 ```bash
 git branch
 ```
 
-Listing all branches
+**Listing all branches**
 ```bash
 git branch -a
 ```
 
-Deleting a branch
+**Deleting a branch**
 ```bash
 git branch -d <branch-name>
 ```
 
-Force delete
+**Force delete**
 ```bash
 git branch -D <branch-name>
 ```
